@@ -10,7 +10,7 @@ Ce schéma s'applique donc aux projets de chantiers de toute nature sur le domai
 
 ### Attributs
 
-![Attributs](attributs_v0.0.2.jpg)
+![Attributs](https://github.com/metis-reseaux/infos-travaux/blob/master/attributs.jpg)
 
 |Nom|Type|Description|Exemple|Contrainte|
 |-|-|-|-|-|
