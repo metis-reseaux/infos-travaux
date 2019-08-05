@@ -1,6 +1,6 @@
 ## Informations travaux
 
-L'[article L49](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000021493642) du code des postes et des communications électroniques a introduit le devoir de publicité de travaux d'infrastructures. Le schéma **Informations travaux** s'inscrit dans la continuité de cette réglementation avec l'objectif de simplifier, standardiser le partage de cette information afin de maximiser les externalités positives qui découlent de l'anticipation des travaux de génie civil.
+L'[article L49](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000021493642) du code des postes et des communications électroniques a introduit le devoir de publicité de travaux d'infrastructures. Le schéma **Informations travaux** s'inscrit dans la continuité de cette réglementation avec l'objectif de simplifier et standardiser le partage de cette information afin de maximiser les externalités positives qui découlent de l'anticipation des travaux de génie civil.
 
 Ce schéma s'applique donc aux projets de chantiers de toute nature sur le domaine public et n'ayant pas démarré.
 
