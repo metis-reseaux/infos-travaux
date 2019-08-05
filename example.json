@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "organisation": "Raison sociale du MOA",
+        "siret": "79889944900036",
+        "prenom": "Prénom",
+        "nom": "Nom",
+        "mail": "contact@mail.fr",
+        "telephone": "+1234567890",
+        "titre": "Exemple minimal fonctionnel",
+        "date_debut": "2020-01-01",
+        "date_fin": "2020-06-01",
+        "categorie": "TELECOM"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.839230,
+              45.750301
+            ],
+            [
+              4.839018,
+              45.749996
+            ],
+            [
+              4.839383,
+              45.749876
+            ],
+            [
+              4.839590,
+              45.750172
+            ],
+            [
+              4.839230,
+              45.750301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "organisation": "Flat Earth Society",
+        "siret": "79889944900036",
+        "prenom": "Léo",
+        "nom": "Gali",
+        "mail": "leo@ga.li",
+        "telephone": "+1234567890",
+        "titre": "Exemple complet | Déploiement fibre rue de la fracture numérique",
+        "resume": "Fourreau de X en PVC, sous trottoir",
+        "date_debut": "2020-01-01",
+        "date_fin": "2020-06-01",
+        "moe": "Société X",
+        "categorie": "TELECOM",
+        "creation": true,
+        "autorite": "République de Venise",
+        "validation": false,
+        "niveau": "SOUTERRAIN",
+        "fonction": "DISTRIBUTION",
+        "longueur": 123,
+        "largeur": 2.2,
+        "adresse_numero": "39B",
+        "adresse_voie": "Rue de Marseille",
+        "adresse_postal": "69007",
+        "adresse_commune": "Lyon"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.838900,
+            45.751055
+          ],
+          [
+            4.839485,
+            45.750697
+          ],
+          [
+            4.838839,
+            45.749780
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "organisation": "Second Empire",
+        "siret": "79889944900036",
+        "prenom": "Georges Eugène",
+        "nom": "Haussmann",
+        "mail": "gege@lebaron.io",
+        "telephone": "+9876543210",
+        "titre": "Exemple sans géométrie | Axe percé autour de la place du Trône",
+        "date_debut": "1853-06-27",
+        "date_fin": "1870-06-27",
+        "categorie": "VOIRIE",
+        "longueur": 321,
+        "largeur": 7.5,
+        "adresse_voie": "Avenue Dorian",
+        "adresse_postal": "75011",
+        "adresse_commune": "Paris"
+      },
+      "geometry": null
+    }
+  ]
+}
