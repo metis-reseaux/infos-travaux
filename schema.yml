@@ -1,0 +1,7 @@
+title: "Informations travaux"
+description : "Schéma permettant de décrire des projets de travaux d'infrastructure."
+homepage: "https://github.com/metis-reseaux/infos-travaux"
+schemas:
+  -
+    path: "informations_travaux.json"
+    title: "Spécification du GeoJSON de publicité de travaux d'infrastructure."
