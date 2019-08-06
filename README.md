@@ -27,7 +27,7 @@ Ce schéma s'applique donc aux projets de chantiers de toute nature sur le domai
 |`autorite` (Autorité compétente)|chaîne de caractères|Raison sociale de l'organisme validatrice|Ville de ...|Optionnel|
 |`validation` (Validation du projet par l'autorité compétente)|booléen|`false`: Intention/Demande, `true`: Intervention/Déclaration|true|Optionnel|
 |`moe` (Maître d'oeuvre)|chaîne de caractères|Raison sociale du maître d'oeuvre|Société X|Optionnel|
-|`categorie` (Catégorie des travaux)|chaîne de caractères|Nature de l'infrastructure|Télécom|Obligatoire. Valeurs autorisées : `TELECOM`, `ELECTRICITE`, `GAZ`, `EAU`, `ASSAINISSEMENT`, `CHAUFFAGE`, `CLIMATISATION`, `VOIRIE`, `AMENAGEMENT`, `AUTRE`|
+|`categorie` (Catégorie des travaux)|chaîne de caractères|Nature de l'infrastructure|TELECOM|Obligatoire. Valeurs autorisées : `TELECOM`, `ELECTRICITE`, `GAZ`, `EAU`, `ASSAINISSEMENT`, `CHAUFFAGE`, `CLIMATISATION`, `VOIRIE`, `AMENAGEMENT`, `AUTRE`|
 |`creation` (Création d'infrastructure)|booléen|`true`: création d'infrastructure, `false`: infrastructure existante|true|Optionnel|
 |`niveau` (Position verticale des opérations)|chaîne de caractères|Niveau des opérations le long de l'entité|SOUTERRAIN|Optionnel. Valeurs autorisées : `SOUTERRAIN`, `SURFACE`, `AERIEN`, `MIXTE`|Optionnel|
 |`fonction` (Fonction de l'infrastructure)|chaîne de caractères|Rôle du tronçon posé au sein du réseau d'infrastructure|TRANSPORT|Optionnel. Valeurs autorisées : `TRANSPORT`, `DISTRIBUTION`, `COLLECTE`|
